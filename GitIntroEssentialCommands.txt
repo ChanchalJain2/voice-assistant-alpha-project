@@ -1,0 +1,9 @@
+git clone "url"
+
+cd directory
+
+git checkout
+(by default it will be main we can change by specifying the required after checkout)
+
+git status
+
