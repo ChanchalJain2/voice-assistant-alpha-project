@@ -7,3 +7,15 @@ git checkout
 
 git status
 
+make new changes
+
+git status
+
+git add *
+
+git status
+
+git commit -m "Comments"
+
+git push
+
